@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+.audio{
+    /* text-align: center; */
+
+    /* align-items: center; */
+    /* align-content: center; */
+    /* align-self: center; */
+
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    
+    border: 3px solid  hsla(352, 91%, 49%, 0.992);
+    border-radius:50px;
+    background-color:rgb(16, 127, 83);
+    padding:5px;
+    display:inline-block;
+    
+    
+   
+    
+
+
+
+    /* box shadow: 10px; */
+    /* text-decoration: none; */
+    /* display: block; */
+    /* display: inline; */
+    /* display: flex; */
+  
+
+}
+
+.video{
+    width: 300px;
+    margin-top: 20px;
+    align-items: center;
+    justify-content:center;
+}
